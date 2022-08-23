@@ -2,7 +2,7 @@
 # Problem Set 2
 #A series of exercises for CS50 hands-on projects
 """
-This one it's my aproach on the making faces problem
+This one it's my aproach on the camel case problem
 """
 x = input("camel case: ")
 print("snake_case: ", end="")
